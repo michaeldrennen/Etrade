@@ -1,0 +1,18 @@
+{
+    "name": "michaeldrennen/etrade",
+    "description": "A PHP library that interfaces with the E*TRADE API.",
+    "type": "library",
+    "require": {
+        "guzzlehttp/guzzle": "^6.3",
+        "phpunit/phpunit": "^8.4",
+        "michaeldrennen/oauth1-signature": "dev-master"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "michaeldrennen",
+            "email": "michaeldrennen74@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
